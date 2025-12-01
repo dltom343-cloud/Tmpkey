@@ -4,7 +4,13 @@
     "username": "Pocof5",
     "password": "Pocof5",
     "expiresAt": "2025-11-25",
-    "allowOffline": true
+    "allowOffline": false
+  {
+    "id": "6a54d24d9f3d9848",
+    "username": "user123",
+    "password": "user123",
+    "expiresAt": "2025-11-25 01:00:00",
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
@@ -13,4 +19,5 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
+  
 ]
