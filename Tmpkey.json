@@ -10,7 +10,7 @@
     "username": "user123",
     "password": "user123",
     "expiresAt": "2025-11-25",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
